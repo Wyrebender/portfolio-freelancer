@@ -48,26 +48,18 @@
 	"buffers":
 	[
 		{
-			"file": "js/freelancer.js",
-			"settings":
-			{
-				"buffer_size": 1721,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "less/freelancer.less",
-			"settings":
-			{
-				"buffer_size": 9160,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
 				"buffer_size": 59535,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/freelancer.js",
+			"settings":
+			{
+				"buffer_size": 1676,
 				"line_ending": "Windows"
 			}
 		}
@@ -99,14 +91,14 @@
 	},
 	"file_history":
 	[
+		"/var/www/html/com.francohaley-freelancer/css/bootstrap.css",
+		"/var/www/html/com.francohaley-freelancer/less/freelancer.less",
+		"/var/www/html/com.francohaley-freelancer/js/freelancer.js",
 		"/var/www/html/com.francohaley-freelancer/js/bootstrap.js",
 		"/var/www/html/com.francohaley-freelancer/bower_components/bootstrap/dist/css/bootstrap.min.css",
-		"/var/www/html/com.francohaley-freelancer/css/bootstrap.css",
 		"/var/www/html/com.francohaley-freelancer/js/bootstrap.min.js",
 		"/var/www/html/com.francohaley-freelancer/css/bootstrap.min.css",
 		"/var/www/html/com.francohaley-freelancer/css/freelancer.css",
-		"/var/www/html/com.francohaley-freelancer/js/freelancer.js",
-		"/var/www/html/com.francohaley-freelancer/less/freelancer.less",
 		"/var/www/html/com.francohaley-freelancer/index.html",
 		"/var/www/html/com.francohaley-freelancer/xhr/api_proxy.php",
 		"/var/www/html/com.francohaley-freelancer/js/contactform.js",
@@ -227,24 +219,54 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "js/freelancer.js",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1721,
+						"buffer_size": 59535,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								459,
-								459
+								58834,
+								58834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/freelancer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1201,
+								1204
 							]
 						],
 						"settings":
@@ -258,64 +280,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "less/freelancer.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9160,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7755,
-								7755
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 7956.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 59535,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								862,
-								862
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]

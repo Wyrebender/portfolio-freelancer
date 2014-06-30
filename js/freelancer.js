@@ -1,6 +1,5 @@
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
-    console.log($('.page-scroll a').length);
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this),
             timer;
